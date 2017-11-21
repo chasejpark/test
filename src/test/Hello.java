@@ -9,7 +9,6 @@ public class Hello {
 		System.out.println("last");
 
 		System.out.println("let's begin!!");
-		System.out.println("let's begin!!2");
 
 	}
 }
