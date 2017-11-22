@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println("let's begin!!");
 		
 	    System.out.println("건강이최고");
+	    System.out.println("힘을 내시오!!");
 
 	}
 }
