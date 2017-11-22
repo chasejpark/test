@@ -9,6 +9,8 @@ public class Hello {
 		System.out.println("last");
 
 		System.out.println("let's begin!!");
+		
+	    System.out.println("건강이최고");
 
 	}
 }
